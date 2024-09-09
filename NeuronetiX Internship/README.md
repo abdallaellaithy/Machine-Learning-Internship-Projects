@@ -31,5 +31,22 @@ To get started with the projects, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/abdallaellaithy/your-repo-name.git
+   git clone https://github.com/abdallaellaithy/Machine-Learning-Internship-Projects.git
+    ```
+## Getting Started
+
+1. **Navigate to the NeuronetiX Folder:**
+```bash
+   cd Machine-Learning-Internship-Projects/NeuronetiX
 ```
+## Acknowledgments
+
+- **NeuronetiX**: Thank you for offering me the chance to work on impactful projects and gain hands-on experience.
+- **Mentors and Colleagues**: Special thanks to all mentors and colleagues who supported me throughout the internship.
+
+## Follow Us
+
+Stay updated with NeuronetiX and the ABDELGHAFOR’S VIRTUAL INTERNSHIPS:
+
+- [NeuronetiX LinkedIn](https://www.linkedin.com/company/neuronetixacademy/posts/?feedView=all)
+
