@@ -19,12 +19,6 @@ During my time at NeuronetiX, I worked on several key areas:
 - **Reinforcement Learning (RL)**: Explored RL algorithms to solve complex problems and optimize decision-making processes.
 - **Model Evaluation and Optimization**: Focused on evaluating model performance and optimizing algorithms for better accuracy and efficiency.
 
-## Key Projects
-
-1. **Project 1**: Description of the project, objectives, and outcomes.
-2. **Project 2**: Description of the project, objectives, and outcomes.
-3. **Project 3**: Description of the project, objectives, and outcomes.
-
 ## Getting Started
 
 To get started with the projects, follow these steps:
