@@ -31,7 +31,7 @@ To get started with the projects, follow these steps:
 
 1. **Navigate to the NeuronetiX Folder:**
 ```bash
-   cd Machine-Learning-Internship-Projects/NeuronetiX
+   cd Machine-Learning-Internship-Projects/NeuronetiX-Internship
 ```
 ## Acknowledgments
 
