@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/abdallaellaithy/Machine-Learning-Internship-Projects/blob/main/NeuronetiX%20Internship/img/image.jpg" alt="ABDELGHAFOR’S VIRTUAL INTERNSHIPS" style="width:100%; max-width:100%;" />
+  <img src="https://github.com/abdallaellaithy/Machine-Learning-Internship-Projects/blob/main/NeuronetiX-Internship/img/image.jpg" alt="ABDELGHAFOR’S VIRTUAL INTERNSHIPS" style="width:100%; max-width:100%;" />
 </p>
 
 # NeuronetiX Internship
