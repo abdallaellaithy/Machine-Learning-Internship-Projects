@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/abdallaellaithy/Machine-Learning-Internship-Projects/blob/main/Cognifyz%20Technologies%20Internship/img/image.jpg" alt="Cognifyz Technologies Internship" style="width:100%; max-width:100%;" />
+  <img src="https://github.com/abdallaellaithy/Machine-Learning-Internship-Projects/blob/main/Cognifyz-Technologies-Internship/img/image.jpg" alt="Cognifyz Technologies Internship" style="width:100%; max-width:100%;" />
 </p>
 
 # Cognifyz Technologies Internship
