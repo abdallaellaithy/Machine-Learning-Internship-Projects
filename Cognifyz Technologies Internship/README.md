@@ -32,7 +32,7 @@ To get started with the projects, follow these steps:
 
 1. **Navigate to the NeuronetiX Folder:**
 ```bash
-   cd Machine-Learning-Internship-Projects/Cognifyz Technologies Internship
+   cd Machine-Learning-Internship-Projects/Cognifyz-Technologies-Internship
 ```
 ## Acknowledgments
 
